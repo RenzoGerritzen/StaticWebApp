@@ -1,0 +1,13 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.throwable {
+	position: absolute;
+	background-color: black;
+	border: solid 0.5vmin grey;
+	width: 12vw;
+	height: 10vh;
+}
